@@ -1,0 +1,44 @@
+.center{
+    border: 2px solid greenyellow;
+    width: 100%;
+    padding: 5vh 0vh;
+}
+button{
+    height: 30px;
+}
+.table{
+    border-top: 20px solid red;
+    border-bottom: 20px solid green;
+    width: 50%;
+}
+#personalId{
+    height: 30px;
+    margin-bottom: 5px;
+    font-size:larger;
+}
+#conclusion{
+    font-family: sans-serif;
+}
+#gm1{
+    margin-right: 15%;
+    background: brown;
+    border-radius: 10px;
+}
+#gm2{
+    margin-right: 0%;
+    background: orange;
+    border-radius: 5px 10px 0px 2px;
+}
+#gm3{
+    margin-left: 15%;
+    background: white;
+}
+#restart{
+    background: green;
+    border-radius: 50%;
+}
+#start{
+    background: red;
+    margin-left: 3vh;
+    border-radius: 50%;
+}
